@@ -2,7 +2,7 @@
 
 This repository contains a data analysis study based on the **Our World in Data COVID-19 dataset**, with a focus on comparing the pandemic evolution in the **United States** and **South Africa**.
 
-The project was developed as a practical data manipulation and visualization exercise using Python and Jupyter Notebook. Its main goal is to explore how COVID-19 evolved across different countries and to highlight differences in infection, vaccination, and mortality patterns.
+This is an old project(its why the covid informations are from 2022) that was developed as a practical data manipulation and visualization exercise using Python and Jupyter Notebook. Its main goal is to explore how COVID-19 evolved across different countries and to highlight differences in infection, vaccination, and mortality patterns.
 
 ## Project goals
 
