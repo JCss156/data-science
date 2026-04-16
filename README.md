@@ -40,3 +40,16 @@ data-science/
 ├── owid-covid-data.csv      # Dataset used in the analysis
 ├── pandemia.ipynb           # Main notebook with the study
 └── README.md
+
+
+Notes
+
+This project was created mainly as a data analysis and learning exercise, with a focus on:
+
+data manipulation
+plotting
+interpretation of real-world trends
+
+It is not intended to be a medical or epidemiological conclusion, but rather a practical study in exploratory data analysis.
+
+Author
