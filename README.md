@@ -51,5 +51,3 @@ plotting
 interpretation of real-world trends
 
 It is not intended to be a medical or epidemiological conclusion, but rather a practical study in exploratory data analysis.
-
-Author
